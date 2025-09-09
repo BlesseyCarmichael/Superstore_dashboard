@@ -4,7 +4,7 @@ This project analyzes the **Superstore dataset** using Tableau.
 The goal was to explore **sales, profit, categories, and regional trends**.
 
 ## 📸 Dashboard Preview
-![Dashboard](Dashboard 1.png)
+![Dashboard](Dashboard1.png)
 
 ## 🔑 Key Insights
 - **West Region** had the highest sales (£725K) and profit (£108K).  
